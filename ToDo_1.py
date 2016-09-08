@@ -12,7 +12,10 @@ class ToDoMenuClass(QtGui.QMainWindow, form_class):
         self.actionExit.triggered.connect(self.menuExit_selected)
     def addTodobtn_clicked(self):
         todo_Item = str(self.ToDoAddItem())
-        
+    
+    
+    def menuExit_selected(self):
+        self.close
         
 app = QtGui.QApplication(sys.argv)
 myapp = ToDoMenuClass()
