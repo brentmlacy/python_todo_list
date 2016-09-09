@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Tests",
+            "type": "python",
+            "pythonPath":"c:/python27/python.exe",
+            "request": "launch",
+            "stopOnEntry": false,
+            "externalConsole":false,
+            "cwd": "${workspaceRoot}",
+            "program": "${workspaceRoot}/ToDo_1.py",
+            "debugOptions": [
+                "WaitOnAbnormalExit",
+                "WaitOnNormalExit",
+                "RedirectOutput"
+            ],
+            "env": {"name":"value"}
+        }
+        
+    ]
+}

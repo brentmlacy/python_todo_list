@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1071</width>
+    <width>1408</width>
     <height>1283</height>
    </rect>
   </property>
@@ -47,15 +47,291 @@
      <rect>
       <x>40</x>
       <y>230</y>
-      <width>981</width>
+      <width>1301</width>
       <height>791</height>
      </rect>
     </property>
+    <property name="minimumSize">
+     <size>
+      <width>1301</width>
+      <height>0</height>
+     </size>
+    </property>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>New Row</string>
+     </property>
+    </row>
+    <column>
+     <property name="text">
+      <string>Item</string>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Due Date</string>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </column>
+    <item row="0" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="0" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="1" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="1" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="2" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="2" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="3" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="3" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="4" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="4" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="5" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="5" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="6" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="6" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="7" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="7" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="8" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="8" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="9" column="0">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
+    <item row="9" column="1">
+     <property name="text">
+      <string/>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+    </item>
    </widget>
    <widget class="QScrollBar" name="verticalScrollBar">
     <property name="geometry">
      <rect>
-      <x>980</x>
+      <x>1300</x>
       <y>230</y>
       <width>41</width>
       <height>791</height>
@@ -65,47 +341,21 @@
      <enum>Qt::Vertical</enum>
     </property>
    </widget>
-   <widget class="QPushButton" name="startGame">
-    <property name="geometry">
-     <rect>
-      <x>50</x>
-      <y>1150</y>
-      <width>211</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Delete ToDo Item</string>
-    </property>
-   </widget>
    <widget class="QLineEdit" name="guessLeft">
     <property name="geometry">
      <rect>
-      <x>270</x>
-      <y>1150</y>
+      <x>940</x>
+      <y>1100</y>
       <width>111</width>
       <height>41</height>
      </rect>
     </property>
    </widget>
-   <widget class="QPushButton" name="startGame_2">
-    <property name="geometry">
-     <rect>
-      <x>50</x>
-      <y>1050</y>
-      <width>211</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Complete ToDo Item</string>
-    </property>
-   </widget>
    <widget class="QLineEdit" name="guessLeft_2">
     <property name="geometry">
      <rect>
-      <x>270</x>
-      <y>1050</y>
+      <x>480</x>
+      <y>1100</y>
       <width>111</width>
       <height>41</height>
      </rect>
@@ -114,20 +364,20 @@
    <widget class="QPushButton" name="startGame_3">
     <property name="geometry">
      <rect>
-      <x>50</x>
-      <y>1100</y>
-      <width>211</width>
+      <x>80</x>
+      <y>1150</y>
+      <width>131</width>
       <height>41</height>
      </rect>
     </property>
     <property name="text">
-     <string>Modify ToDo Item</string>
+     <string>commit</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="guessLeft_3">
     <property name="geometry">
      <rect>
-      <x>270</x>
+      <x>80</x>
       <y>1100</y>
       <width>111</width>
       <height>41</height>
@@ -175,13 +425,52 @@
      </rect>
     </property>
    </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>1070</y>
+      <width>271</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Modify ToDo item number:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>1070</y>
+      <width>291</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Complete ToDo item number:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>1070</y>
+      <width>261</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Delete ToDo item number:</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1071</width>
+     <width>1408</width>
      <height>38</height>
     </rect>
    </property>
