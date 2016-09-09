@@ -8,10 +8,10 @@ class ToDoMenuClass(QtGui.QMainWindow, form_class):
     def __init__(self, parent=None):
         QtGui.QMainWindow.__init__(self, parent)
         self.setupUi(self)
-#        self.addTodobtn.clicked.connect(self.addTodobtn_clicked)
+        #self.addTodobtn.clicked.connect(self.btnTodoAdd_clicked)
         self.actionExit.triggered.connect(self.menuExit_selected)
     
-    def addTodobtn_clicked(self):
+    def btnTodoAdd_clicked(self):
         todoItem = str(self.ToDoAddItem.text())
         self.item.setText(str(todoItem))
 
